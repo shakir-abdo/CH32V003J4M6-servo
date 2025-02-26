@@ -1,0 +1,23 @@
+{
+  "name": "CH32V003J4M6-Servo",
+  "version": "1.0.0",
+  "description": "A servo motor control library for CH32V003J4M6 microcontroller",
+  "keywords": "ch32v003, servo, pwm, motor, ch32v003j4m6",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shakir-abdo/CH32V003J4M6-servo.git"
+  },
+  "authors": [
+    {
+      "name": "Shakir Abdo",
+      "email": "shicolare1@gmail.com",
+      "url": "https://github.com/shakir-abdo",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/shakir-abdo/CH32V003J4M6-servo",
+  "frameworks": "ch32v003fun",
+  "platforms": "ch32v",
+  "headers": "servo.h"
+}
