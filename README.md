@@ -1,5 +1,8 @@
 # CH32V003J4M6-Servo Library
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Platform: CH32V003](https://img.shields.io/badge/Platform-CH32V003-blue.svg)](http://www.wch-ic.com/products/CH32V003.html)
+
 A lightweight servo motor control library specifically designed for the CH32V003J4M6 microcontroller. This library provides easy-to-use functions for controlling standard RC servo motors using the Timer1 PWM capabilities.
 
 ## Features
